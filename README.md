@@ -20,22 +20,5 @@ _If problem occurs while running. Just simply `flutter clean`._
 
 ### Screenshot
 
-**Wire Viewer App**
-
-    ```
-
-<figure>
-    <img src="https://i.ibb.co/9Zqjj0V/the-wire-demo.gif"
-         alt="The Wire Screenshot" width="250"/>
-</figure>
-	```
-
-**Simpsons Viewer App**
-
-    ```
-
-<figure>
-    <img src="https://i.ibb.co/Lrh4rMr/simpsons-demo.gif"
-         alt="Simpsons Screenshot" width="250" />
-</figure>
-	```
+| ![The Wire Screenshot](https://i.ibb.co/9Zqjj0V/the-wire-demo.gif) | ![The Simpsons Viewer](https://i.ibb.co/Lrh4rMr/simpsons-demo.gif) |
+| ------------------------------------------------------------------ | ------------------------------------------------------------------ |
