@@ -16,7 +16,7 @@ Make sure you have a working flutter installation. Clone this repo via `git clon
 - For The Wire Character Viewer. Run:
   `flutter run --flavor wire_viewer --target lib/main_wire.dart.dart`
 
-_If problem occurs while running. Just simply `flutter clean`._
+_If problem occurs while running. Just simply `flutter clean` then `flutter pub get`.
 
 ### Screenshot
 
