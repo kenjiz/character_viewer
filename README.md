@@ -20,5 +20,5 @@ _If problem occurs while running. Just simply `flutter clean`._
 
 ### Screenshot
 
-| ![The Wire Screenshot](https://i.ibb.co/9Zqjj0V/the-wire-demo.gif) | ![The Simpsons Viewer](https://i.ibb.co/Lrh4rMr/simpsons-demo.gif) |
+| ![The Wire Screenshot](https://i.ibb.co/9Zqjj0V/the-wire-demo.gif) | ![The Simpsons Viewer](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2dlbHlla2ptZjNkc3huOXE0cjVkaXptMWQ5cG42dGx6YzZpdnN6dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4FFyJWS3BeCKmvBaDI/giphy.gif) |
 | ------------------------------------------------------------------ | ------------------------------------------------------------------ |
