@@ -1,6 +1,6 @@
 # Character Viewer
 
-A simple 2-in-1 app that fetches characters from The Simpsons and The Wire from `api.duckduckgo.com`. Demonstrating the power of **Flutter Flavors** for creating multi apps in one codebase.
+A simple 2-in-1 app that fetches characters from The Simpsons and The Wire through `api.duckduckgo.com`. Demonstrating the power of **Flutter Flavors** for creating multi apps in one codebase.
 
 #### Note:
 
